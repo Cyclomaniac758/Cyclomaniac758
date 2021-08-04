@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Ronan, currently in my final year of study at the University of Canterbury in Software Engineering.
-- Current/recent projects include a wave tracker implementing computer vision techniques and a web application found linked from my profile.
+- Current/recent projects include a surfing wave tracker using Python and OpenCV and a web application using vueJS and Java
+- Web application found linked in my profile.
 - Wave tracking application can be found in wave-tracker repository.
 
 <!---
