@@ -28,7 +28,7 @@ A fun litte Python computer vision project to detect and track surfable waves in
 - Utilising AI tooling in the fast paced world of software development, while maintaining high quality standards for all the code I produce 
 
 ### Beyond Engineering
-- I am a high level tennis player
+- I am a high performance tennis player
 - Former concert violinist
 - Email: ronantavery@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ronan-avery-029113145/
